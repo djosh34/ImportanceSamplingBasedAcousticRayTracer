@@ -1,0 +1,4 @@
+.DS_Store
+.idea/
+cxx/lib/sdl/
+cxx/lib/imgui/
